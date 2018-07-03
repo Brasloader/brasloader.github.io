@@ -1,54 +1,314 @@
 {
    "Playlists": [{
-       "ListTitle": "Zen Work Music",
+       "ListTitle": "Primeira Temporada",
        "ListItems": [{
-           "Title": "HEALING ZEN Music",
-           "link": "https: //www.youtube.com/watch?v=SbCpzWMWb68",
-           "thumb": "https: //i.ytimg.com/vi_webp/SbCpzWMWb68/mqdefault.webp"
+           "Title": "\nCapítulo 1\nOs Milagres de Jesus",
+           "link": "https: //www.youtube.com/watch?v=0uueP2Tifp0",
+           "thumb": "https: //i.ytimg.com/vi_webp/0uueP2Tifp0/mqdefault.webp"
          },
          {
-           "Title": "Relaxing Music - Meditation",
-           "link": "https: //www.youtube.com/watch?v=qrx1vyvtRLY",
-           "thumb": "https: //i.ytimg.com/vi_webp/qrx1vyvtRLY/mqdefault.webp"
+           "Title": "\nCapítulo 2\nJesus o Filho de Deus",
+           "link": "https: //www.youtube.com/watch?v=x7OxVEWaOcs",
+           "thumb": "https: //i.ytimg.com/vi_webp/x7OxVEWaOcs/mqdefault.webp"
          },
          {
-           "Title": "Relaxing Music - Background",
-           "link": "https: //www.youtube.com/watch?v=loIZy6GqhUw",
-           "thumb": "https: //i.ytimg.com/vi_webp/loIZy6GqhUw/mqdefault.webp"
+           "Title": "\nCapítulo 3\nO Maior é o Menor",
+           "link": "https: //www.youtube.com/watch?v=PF2bvQZpQQc",
+           "thumb": "https: //i.ytimg.com/vi_webp/PF2bvQZpQQc/mqdefault.webp"
          },
          {
-           "Title": "Delta Waves Sleep Music",
-           "link": "https: //www.youtube.com/watch?v=EshmcHB3yMg",
-           "thumb": "https: //i.ytimg.com/vi_webp/EshmcHB3yMg/mqdefault.webp"
-         }
+           "Title": "\nCapítulo 4\nO Pão do Céu",
+           "link": "https: //www.youtube.com/watch?v=5s2xPEAh-Is",
+           "thumb": "https: //i.ytimg.com/vi_webp/5s2xPEAh-Is/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 5\nEle Ressucitou",
+           "link": "https: //www.youtube.com/watch?v=lDsBCr6xRCM",
+           "thumb": "https: //i.ytimg.com/vi_webp/lDsBCr6xRCM/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 6\nNasce o Rei",
+           "link": "https: //www.youtube.com/watch?v=7J6GOhy6U4k",
+           "thumb": "https: //i.ytimg.com/vi_webp/7J6GOhy6U4k/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 7\nAbraão e Isaac",
+           "link": "https: //www.youtube.com/watch?v=jXE2lDrErwQ",
+           "thumb": "https: //i.ytimg.com/vi_webp/jXE2lDrErwQ/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 8\nEstér",
+           "link": "https: //www.youtube.com/watch?v=vKM4SOUAFJ8",
+           "thumb": "https: //i.ytimg.com/vi_webp/vKM4SOUAFJ8/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 9\nJosé do Egito",
+           "link": "https: //www.youtube.com/watch?v=0y2Jqg3rLGI",
+           "thumb": "https: //i.ytimg.com/vi_webp/0y2Jqg3rLGI/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 10\nSamuel o Menino Profeta",
+           "link": "https: //www.youtube.com/watch?v=ZcsqCJ9G-Bs",
+           "thumb": "https: //i.ytimg.com/vi_webp/ZcsqCJ9G-Bs/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 11\nDaniel",
+           "link": "https: //www.youtube.com/watch?v=mRLM_Q33Ino",
+           "thumb": "https: //i.ytimg.com/vi_webp/mRLM_Q33Ino/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 12\nMoisés",
+           "link": "https: //www.youtube.com/watch?v=3EJM40NpPFs",
+           "thumb": "https: //i.ytimg.com/vi_webp/3EJM40NpPFs/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 13\nA história de Ruth",
+           "link": "https: //www.youtube.com/watch?v=yqfJhQnTy7c",
+           "thumb": "https: //i.ytimg.com/vi_webp/yqfJhQnTy7c/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 14\nA Reunião de José",
+           "link": "https: //www.youtube.com/watch?v=j7CwKrpKXmA",
+           "thumb": "https: //i.ytimg.com/vi_webp/j7CwKrpKXmA/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 15\nJoão o Batista",
+           "link": "https: //www.youtube.com/watch?v=7htW4GKCbII",
+           "thumb": "https: //i.ytimg.com/vi_webp/7htW4GKCbII/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 16\nSaulo de Tarso",
+           "link": "https: //www.youtube.com/watch?v=QtyXTNNFGQg",
+           "thumb": "https: //i.ytimg.com/vi_webp/QtyXTNNFGQg/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 17\nO Reino do Céu",
+           "link": "https: //www.youtube.com/watch?v=CWCq96BGLbE",
+           "thumb": "https: //i.ytimg.com/vi_webp/CWCq96BGLbE/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 18\nO Perdido é Achado",
+           "link": "https: //www.youtube.com/watch?v=7PrI9sQX5Ok",
+           "thumb": "https: //i.ytimg.com/vi_webp/7PrI9sQX5Ok/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 19\nSenhor eu Acredito",
+           "link": "https: //www.youtube.com/watch?v=pbHgW36Unic",
+           "thumb": "https: //i.ytimg.com/vi_webp/pbHgW36Unic/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 20\nO Bom Samaritano",
+           "link": "https: //www.youtube.com/watch?v=Lywo6b_AMEw",
+           "thumb": "https: //i.ytimg.com/vi_webp/Lywo6b_AMEw/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 21\nO Filho Pródigo",
+           "link": "https: //www.youtube.com/watch?v=H_ASMBb1Xlo",
+           "thumb": "https: //i.ytimg.com/vi_webp/H_ASMBb1Xlo/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 22\nO Juíz Justo",
+           "link": "https: //www.youtube.com/watch?v=HYnZyaPiBxs",
+           "thumb": "https: //i.ytimg.com/vi_webp/HYnZyaPiBxs/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 23\nPerdoai as Nossas Dívidas",
+           "link": "https: //www.youtube.com/watch?v=t7M2AL7UCBk&",
+           "thumb": "https: //i.ytimg.com/vi_webp/i5em6lZOFB0/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 24\nMinistério de Paulo",
+           "link": "https: //www.youtube.com/watch?v=nrtOLaSjxPo",
+           "thumb": "https: //i.ytimg.com/vi_webp/nrtOLaSjxPo/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 25\nSalomão",
+           "link": "https: //www.youtube.com/watch?v=mEViLS7HYMo",
+           "thumb": "https: //i.ytimg.com/vi_webp/mEViLS7HYMo/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 26\nLázaro Vive",
+           "link": "https: //www.youtube.com/watch?v=fTWTr1DBzNw",
+           "thumb": "https: //i.ytimg.com/vi_webp/fTWTr1DBzNw/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 27\nSinais dos Tempos",
+           "link": "https: //www.youtube.com/watch?v=nEDCnRvaMGI",
+           "thumb": "https: //i.ytimg.com/vi_webp/nEDCnRvaMGI/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 28\nO Messias Está Chegando",
+           "link": "https: //www.youtube.com/watch?v=OHf_3GzRq6Q",
+           "thumb": "https: //i.ytimg.com/vi_webp/OHf_3GzRq6Q/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 29\nRespeitável é Jesus Cristo",
+           "link": "https: //www.youtube.com/watch?v=wjVDfGvMVeY",
+           "thumb": "https: //i.ytimg.com/vi_webp/wjVDfGvMVeY/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 30\nErigida Sobre Uma Rocha",
+           "link": "https: //www.youtube.com/watch?v=n_dQUpFBQiY",
+           "thumb": "https: //i.ytimg.com/vi_webp/n_dQUpFBQiY/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 31\nO Pai Nosso",
+           "link": "https: //www.youtube.com/watch?v=1Um68pO1zE0",
+           "thumb": "https: //i.ytimg.com/vi_webp/1Um68pO1zE0/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 32\nElias",
+           "link": "https: //www.youtube.com/watch?v=w_mnmK_DpzQ",
+           "thumb": "https: //i.ytimg.com/vi_webp/w_mnmK_DpzQ/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 33\nEliseu",
+           "link": "https: //www.youtube.com/watch?v=jVQKihY_Y6Q",
+           "thumb": "https: //i.ytimg.com/vi_webp/jVQKihY_Y6Q/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 34\nAs Parábolas de Jesus",
+           "link": "https: //www.youtube.com/watch?v=-_1vRCtvvts",
+           "thumb": "https: //i.ytimg.com/vi_webp/-_1vRCtvvts/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 35\nDavi e Golias",
+           "link": "https: //www.youtube.com/watch?v=i5em6lZOFB0",
+           "thumb": "https: //i.ytimg.com/vi_webp/i5em6lZOFB0/mqdefault.webp"
+         }               
        ]
      },
      {
-       "ListTitle": "Movie Trailers",
+       "ListTitle": "Segunda Temporada",
        "ListItems": [{
-           "Title": "Chappie",
-           "link": "https: //www.youtube.com/watch?v=lyy7y0QOK-0",
-           "thumb": "https: //i.ytimg.com/vi_webp/lyy7y0QOK-0/mqdefault.webp"
+           "Title": "\nCapítulo 1\nA Criação do Mundo",
+           "link": "https: //www.youtube.com/watch?v=0aE5CojsDao&t=1s",
+           "thumb": "https: //i.ytimg.com/vi_webp/fTWTr1DBzNw/mqdefault.webp"
          },
          {
-           "Title": "Ex Machina",
-           "link": "https: //www.youtube.com/watch?v=PI8XBKb6DQk",
-           "thumb": "https: //i.ytimg.com/vi_webp/PI8XBKb6DQk/mqdefault.webp"
+           "Title": "\nCapítulo 2\nAbel e Caim",
+           "link": "https: //www.youtube.com/watch?v=sZL8RmVpqZo&t=1s",
+           "thumb": "https: //i.ytimg.com/vi_webp/7htW4GKCbII/mqdefault.webp"
          },
          {
-           "Title": "The Martian",
-           "link": "https: //www.youtube.com/watch?v=u-duq1iMkWU",
-           "thumb": "https: //i.ytimg.com/vi_webp/u-duq1iMkWU/mqdefault.webp"
+           "Title": "\nCapítulo 3\nA Arca de Noé",
+           "link": "https: //www.youtube.com/watch?v=vKiUUtBZVDo",
+           "thumb": "https: //i.ytimg.com/vi_webp/vKiUUtBZVDo/mqdefault.webp"
          },
          {
-           "Title": "Gods of Egypt",
-           "link": "https: //www.youtube.com/watch?v=IJBnK2wNQSo",
-           "thumb": "https: //i.ytimg.com/vi_webp/IJBnK2wNQSo/mqdefault.webp"
+           "Title": "\nCapítulo 4\nA Torre de Babel",
+           "link": "https: //www.youtube.com/watch?v=ftHeiQClYvg",
+           "thumb": "https: //i.ytimg.com/vi_webp/ftHeiQClYvg/mqdefault.webp"
          },
          {
-           "Title": "Angry Birds",
-           "link": "https: //www.youtube.com/watch?v=4pIi4tMJoUs",
-           "thumb": "https: //i.ytimg.com/vi_webp/4pIi4tMJoUs/mqdefault.webp"
+           "Title": "\nCapítulo 5\nO Chamado de Abraão",
+           "link": "https: //www.youtube.com/watch?v=hDYqyrPZIuY",
+           "thumb": "https: //i.ytimg.com/vi_webp/3EJM40NpPFs/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 6\nSodoma e Gomorra",
+           "link": "https: //www.youtube.com/watch?v=sUK8ncppr-s&t=5s",
+           "thumb": "https: //i.ytimg.com/vi_webp/nEDCnRvaMGI/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 7\nA História de Ismael",
+           "link": "https: //www.youtube.com/watch?v=2Hqn7efy8HU",
+           "thumb": "https: //i.ytimg.com/vi_webp/2Hqn7efy8HU/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 8\nA Prova de Abraão",
+           "link": "https: //www.youtube.com/watch?v=yqE3LY7ekYA",
+           "thumb": "https: //i.ytimg.com/vi_webp/nrtOLaSjxPo/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 9\nJosé e o Faraó",
+           "link": "https: //www.youtube.com/watch?v=vBwNUSGMqwU",
+           "thumb": "https: //i.ytimg.com/vi_webp/i5em6lZOFB0/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 10\nJosé e Seus Irmãos",
+           "link": "https: //www.youtube.com/watch?v=PoxakWzYwvE&t=525s",
+           "thumb": "https: //i.ytimg.com/vi_webp/ZcsqCJ9G-Bs/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 11\nMoisés no Egito",
+           "link": "https: //www.youtube.com/watch?v=mKZAWvnHjqA",
+           "thumb": "https: //i.ytimg.com/vi_webp/mKZAWvnHjqA/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 12\nA Sarça Ardente",
+           "link": "https: //www.youtube.com/watch?v=jefCc_wcWgY",
+           "thumb": "https: //i.ytimg.com/vi_webp/jefCc_wcWgY/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 13\nMoisés e o Faraó",
+           "link": "https: //www.youtube.com/watch?v=W_envt8Co6I",
+           "thumb": "https: //i.ytimg.com/vi_webp/W_envt8Co6I/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 14\nÊxodo",
+           "link": "https: //www.youtube.com/watch?v=V5muTiYPqTY",
+           "thumb": "https: //i.ytimg.com/vi_webp/V5muTiYPqTY/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 15\nAs Tábuas da Lei",
+           "link": "https: //www.youtube.com/watch?v=zX7xO4tNYBg",
+           "thumb": "https: //i.ytimg.com/vi_webp/H_ASMBb1Xlo/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 16\nO Bezerro de Ouro",
+           "link": "https: //www.youtube.com/watch?v=dtwBVD-rkyk",
+           "thumb": "https: //i.ytimg.com/vi_webp/dtwBVD-rkyk/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 17\nA Terra Prometida",
+           "link": "https: //www.youtube.com/watch?v=B5tLc-yEjVI",
+           "thumb": "https: //i.ytimg.com/vi_webp/0uueP2Tifp0/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 18\nJericó",
+           "link": "https: //www.youtube.com/watch?v=QNKLyj9UG_Y",
+           "thumb": "https: //i.ytimg.com/vi_webp/QNKLyj9UG_Y/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 19\nUm Rei Para Israel",
+           "link": "https: //www.youtube.com/watch?v=9M4O_9D61q4",
+           "thumb": "https: //i.ytimg.com/vi_webp/vKM4SOUAFJ8/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 20\nDavi e Golias",
+           "link": "https: //www.youtube.com/watch?v=dfSVIhXHRT8",
+           "thumb": "https: //i.ytimg.com/vi_webp/7J6GOhy6U4k/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 21\nO rei Davi",
+           "link": "https: //www.youtube.com/watch?v=eLZt4QaVOKU&t=3s",
+           "thumb": "https: //i.ytimg.com/vi_webp/ftHeiQClYvg/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 22\nO Rei Salomão",
+           "link": "https: //www.youtube.com/watch?v=b82EiyErf2c",
+           "thumb": "https: //i.ytimg.com/vi_webp/b82EiyErf2c/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 23\nA Derrota de Israel",
+           "link": "https: //www.youtube.com/watch?v=UMiWPT0fdos",
+           "thumb": "https: //i.ytimg.com/vi_webp/UMiWPT0fdos/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 24\nDerrota da Babilônia",
+           "link": "https: //www.youtube.com/watch?v=KhT_gTFmE6c",
+           "thumb": "https: //i.ytimg.com/vi_webp/V5muTiYPqTY/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 25\nProfetas de Israel",
+           "link": "https: //www.youtube.com/watch?v=JzTCOBFrhgY",
+           "thumb": "https: //i.ytimg.com/vi_webp/JzTCOBFrhgY/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 26\nO Messias",
+           "link": "https: //www.youtube.com/watch?v=yTaxKeAp57E",
+           "thumb": "https: //i.ytimg.com/vi_webp/mEViLS7HYMo/mqdefault.webp"
          }
        ]
      }
