@@ -1,6 +1,6 @@
 {
    "Playlists": [{
-       "ListTitle": "Primeira Temporada",
+       "ListTitle": "Antigo Testamento",
        "ListItems": [{
            "Title": "\nCapítulo 1\nOs Milagres de Jesus",
            "link": "https: //www.youtube.com/watch?v=0uueP2Tifp0",
@@ -179,7 +179,7 @@
        ]
      },
      {
-       "ListTitle": "Segunda Temporada",
+       "ListTitle": "Novo Testamento",
        "ListItems": [{
            "Title": "\nCapítulo 1\nA Criação do Mundo",
            "link": "https: //www.youtube.com/watch?v=0aE5CojsDao&t=1s",
@@ -325,6 +325,21 @@
            "thumb": "https: //i.ytimg.com/vi_webp/4pIi4tMJoUs/mqdefault.webp"
          }
        ]
+},
+{
+       "ListTitle": "Edvan Trailers",
+       "ListItems": [{
+           "Title": "Chappie",
+           "link": "https: //www.youtube.com/watch?v=lyy7y0QOK-0",
+           "thumb": "https: //i.ytimg.com/vi_webp/lyy7y0QOK-0/mqdefault.webp"
+         },
+         {
+           "Title": "Angry Birds",
+           "link": "https: //www.youtube.com/watch?v=4pIi4tMJoUs",
+           "thumb": "https: //i.ytimg.com/vi_webp/4pIi4tMJoUs/mqdefault.webp"
+         }
+       ]
+       
 
 
      }
