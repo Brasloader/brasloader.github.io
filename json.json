@@ -316,9 +316,19 @@
        "ListTitle": "Cowboy Cristão",
        "ListItems": [{
            "Title": "\nCapítulo 1\nOs Fora da Lei",
-           "link": "https: //www.youtube.com/3xWDUsbaRF0&t=2s",
-           "thumb": "https: //i.ytimg.com/vi_webp/3xWDUsbaRF0&t=2s/mqdefault.webp"
+           "link": "https: //www.youtube.com/watch?v3xWDUsbaRF0&t",
+           "thumb": "https: //i.ytimg.com/vi_webp/3xWDUsbaRF0&t/mqdefault.webp"
          },
+         {
+           "Title": "\nCapítulo 2\nMentirinhas",
+           "link": "https: //www.youtube.com/watch?v=ic96T9z-Yr0",
+           "thumb": "https: //i.ytimg.com/vi_webp/ic96T9z-Yr0/mqdefault.webp"
+           },
+         {
+           "Title": "\nCapítulo 2\nMentirinhas",
+           "link": "https: //www.youtube.com/watch?v=ic96T9z-Yr0",
+           "thumb": "https: //i.ytimg.com/vi_webp/ic96T9z-Yr0/mqdefault.webp"
+           },
          {
            "Title": "\nCapítulo 2\nMentirinhas",
            "link": "https: //www.youtube.com/watch?v=ic96T9z-Yr0",
