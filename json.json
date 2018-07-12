@@ -337,16 +337,56 @@
        ]
 },
 {
-       "ListTitle": "Soldadinho de Deus",
+       "ListTitle": "Super Book",
        "ListItems": [{
-           "Title": "\nCapítulo 1\nA Cura do Servo",
-           "link": "https: //www.youtube.com/watch?v=FXX4bbNJcFg",
-           "thumb": "https: //i.ytimg.com/vi_webp/FXX4bbNJcFg/mqdefault.webp"
+           "Title": "\nCapítulo 1\nSalomão",
+           "link": "https: //www.youtube.com/watch?v=dmSAsINVI6U",
+           "thumb": "https: //i.ytimg.com/vi_webp/dmSAsINVI6U/mqdefault.webp"
          },
          {
-           "Title": "\nCapítulo 2\nEncontro com Jesus",
-           "link": "https: //www.youtube.com/watch?v=ZDqn4RgvUdQ",
-           "thumb": "https: //i.ytimg.com/vi_webp/FXX4bbNJcFg/mqdefault.webp"
+           "Title": "\nCapítulo 2\nAbel e Caim",
+           "link": "https: //www.youtube.com/watch?v=VCZAl-hFssg",
+           "thumb": "https: //i.ytimg.com/vi_webp/VCZAl-hFssg/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 3\nAbraão",
+           "link": "https: //www.youtube.com/watch?v=GH0Tuoylozw",
+           "thumb": "https: //i.ytimg.com/vi_webp/GH0Tuoylozw/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 4\nArca de Noé",
+           "link": "https: //www.youtube.com/watch?v=6Lylxlw0hK8",
+           "thumb": "https: //i.ytimg.com/vi_webp/6Lylxlw0hK8/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 5\nMoisés",
+           "link": "https: //www.youtube.com/watch?v=PU6n782eCms",
+           "thumb": "https: //i.ytimg.com/vi_webp/PU6n782eCms/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 6\nRute",
+           "link": "https: //www.youtube.com/watch?v=_piVE-8wMlE",
+           "thumb": "https: //i.ytimg.com/vi_webp/_piVE-8wMlE/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 7\nAdão e Eva",
+           "link": "https: //www.youtube.com/watch?v=Ayj5r-rhlFQ",
+           "thumb": "https: //i.ytimg.com/vi_webp/Ayj5r-rhlFQ/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 8\nJonas",
+           "link": "https: //www.youtube.com/watch?v=u4Echr3SUes",
+           "thumb": "https: //i.ytimg.com/vi_webp/u4Echr3SUes/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 9\nEliseu",
+           "link": "https: //www.youtube.com/watch?v=RiOIZ3OFaWg",
+           "thumb": "https: //i.ytimg.com/vi_webp/RiOIZ3OFaWg/mqdefault.webp"
+         },
+         {
+           "Title": "\nCapítulo 10\nElias",
+           "link": "https: //www.youtube.com/watch?v=AdU4rneLLi8",
+           "thumb": "https: //i.ytimg.com/vi_webp/AdU4rneLLi8/mqdefault.webp"
          }
        ]
 },
