@@ -1,6 +1,6 @@
 {
    "Playlists": [{
-       "ListTitle": "Show - Mister M",
+       "ListTitle": "Melhores Momentos",
        "ListItems": [{
            "Title": "\nEpisódio 1",
            "link": "https: //www.youtube.com/watch?v=oH9tHLR1B6I",
@@ -109,7 +109,26 @@
        ]
      },
      {
-       "ListTitle": "Apresentação",
+       "ListTitle": "Gols da Rodada",
+       "ListItems": [{
+           "Title": "\nTruque 1",
+           "link": "https: //www.youtube.com/watch?v=BZEeQMBjd4w",
+           "thumb": "https: //i.ytimg.com/vi_webp/BZEeQMBjd4w/mqdefault.webp"
+         },
+         {
+           "Title": "\nTruque 2",
+           "link": "https: //www.youtube.com/watch?v=93yAvi-nYRo",
+           "thumb": "https: //i.ytimg.com/vi_webp/93yAvi-nYRo/mqdefault.webp"
+         },
+         {
+           "Title": "\nTruque 3",
+           "link": "https: //www.youtube.com/watch?v=XrJ3ROpB87Q",
+           "thumb": "https: //i.ytimg.com/vi_webp/XrJ3ROpB87Q/mqdefault.webp"
+          }        
+       ]
+     },
+     {
+       "ListTitle": "Gols em Outros Clubes",
        "ListItems": [{
            "Title": "\nTruque 1",
            "link": "https: //www.youtube.com/watch?v=BZEeQMBjd4w",
