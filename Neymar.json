@@ -1,0 +1,35 @@
+{
+   "Playlists": [{
+       "ListTitle": "Melhores Momentos",
+       "ListItems": [{
+           "Title": "\nAguarde a Estréia do CR7",
+           "link": "https: //www.youtube.com/watch?v=N6X2gQjWI",
+           "thumb": "https: //i.ytimg.com/vi_webp/N6X2gQjWI/mqdefault.webp"   
+         }        
+       ]
+     },
+     {
+       "ListTitle": "Gols da Rodada",
+       "ListItems": [{
+           "Title": "\nAguarde a Estréia do CR7",
+           "link": "https: //www.youtube.com/watch?v=N6X2gQjWI",
+           "thumb": "https: //i.ytimg.com/vi_webp/N6X2gQjWI/mqdefault.webp"
+          }        
+       ]
+     },
+     {
+       "ListTitle": "Gols em Outros Clubes",
+       "ListItems": [{
+           "Title": "\nSantos\n230 Jogos - 138 Gols",
+           "link": "https: //www.youtube.com/watch?v=VW6YDYVhh64",
+           "thumb": "https: //i.ytimg.com/vi_webp/VW6YDYVhh64/mqdefault.webp"
+         },
+         {
+           "Title": "\nBarcelona\n186 Jogos - 105 Gols",
+           "link": "https: //www.youtube.com/watch?v=ZXEMu7g8f40",
+           "thumb": "https: //i.ytimg.com/vi_webp/ZXEMu7g8f40/mqdefault.webp"
+         }
+       ]
+     }
+   ]
+ }
