@@ -311,8 +311,8 @@
            "thumb": "https: //i.ytimg.com/vi_webp/mEViLS7HYMo/mqdefault.webp"
          }
        ]
-},
-{
+	},
+	{
        "ListTitle": "Cowboy Cristão",
        "ListItems": [{
            "Title": "\nCapítulo 1\nOs Fora da Lei",
@@ -402,28 +402,9 @@
            "Title": "\nCapítulo 13\nÚltima Ceia",
            "link": "https: //www.youtube.com/watch?v=F_xNINh9NZA",
            "thumb": "https: //i.ytimg.com/vi_webp/F_xNINh9NZA/mqdefault.webp"
-         },
-         {
-       "ListTitle": "Jesus um reino sem Fronteiras",
-       "ListItems": [{
-           "Title": "\nCapítulo 1\nA Criação do Mundo",
-           "link": "https: //www.youtube.com/watch?v=PC2uxpq8kDg",
-           "thumb": "https: //i.ytimg.com/vi_webp/PC2uxpq8kDg/mqdefault.webp"
-         },
-         {
-           "Title": "\nCapítulo 2\nO Nascimento de Jesus",
-           "link": "https: //www.youtube.com/watch?v=8QQwsKA2o-k",
-           "thumb": "https: //i.ytimg.com/vi_webp/8QQwsKA2o-k/mqdefault.webp"
-         },
-         {
-           "Title": "\nCapítulo 3\nFuga Para o Egito",
-           "link": "https: //www.youtube.com/watch?v=C-1MYz2Zs9s",
-           "thumb": "https: //i.ytimg.com/vi_webp/C-1MYz2Zs9s/mqdefault.webp"
+         
          }
        ]       
-
-
-
      }
    ]
  }
