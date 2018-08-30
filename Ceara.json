@@ -1,0 +1,42 @@
+{
+   "Playlists": [{
+       "ListTitle": "Melhores Momentos\nCampeonato Brasileiro 2018",
+       "ListItems": [{
+           "Title": "\nVitória 1 x 0 Atlético-MG (26/08/2018)",
+           "link": "https: //www.youtube.com/watch?v=8wHGBnZw5Dc",
+           "thumb": "https: //i.ytimg.com/vi_webp/8wHGBnZw5Dc/mqdefault.webp"   
+         },
+         {
+           "Title": "\nAtlético-MG 0 x 0 Vasco (23/08/2018)",
+           "link": "https: //www.youtube.com/watch?v=pZ2POlbCj64",
+           "thumb": "https: //i.ytimg.com/vi_webp/pZ2POlbCj64/mqdefault.webp"
+         },
+       	{
+           "Title": "\nBotafogo 0 x 3 Atlético-MG (19/08/2018)",
+           "link": "https: //www.youtube.com/watch?v=_Rxrpg_HcLs&t",
+           "thumb": "https: //i.ytimg.com/vi_webp/_Rxrpg_HcLs&t/mqdefault.webp"   
+         }               
+       ]
+     },
+     {
+       "ListTitle": "Recopa Sul-Americana",
+       "ListItems": [{
+           "Title": "\nRecopa Sul-Americana 2014",
+           "link": "https: //www.youtube.com/watch?v=swktqeuyD9E",
+           "thumb": "https: //i.ytimg.com/vi_webp/swktqeuyD9E/mqdefault.webp"
+          }  
+       ]
+     },
+     {
+       "ListTitle": "Libertadores da América",
+       "ListItems": [{
+           "Title": "\nLibertadores da América 2013",
+           "link": "https: //www.youtube.com/watch?v=o06mFGwAetY",
+           "thumb": "https: //i.ytimg.com/vi_webp/o06mFGwAetY/mqdefault.webp"
+          } 
+       ]
+     }
+       ]
+     }
+   ]
+ }
