@@ -2,6 +2,11 @@
    "Playlists": [{
        "ListTitle": "Melhores Momentos",
        "ListItems": [{
+           "Title": "\nGirona 2 x 2 Barcelona (23/09/2018)",
+           "link": "https: //www.youtube.com/watch?v=waxUz3aA0lg",
+           "thumb": "https: //i.ytimg.com/vi_webp/waxUz3aA0lg/mqdefault.webp"   
+         },
+       	{
            "Title": "\nReal Sociedad 1 x 2 Barcelona (15/09/2018)",
            "link": "https: //www.youtube.com/watch?v=qa79_3yYUB8",
            "thumb": "https: //i.ytimg.com/vi_webp/qa79_3yYUB8/mqdefault.webp"   
