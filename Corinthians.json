@@ -2,6 +2,11 @@
    "Playlists": [{
        "ListTitle": "Melhores Momentos - Corinthians",
        "ListItems": [{
+           "Title": "\nCruzeiro 1 x 0 Corinthians\nCopa do Brasil (11/10/2018)",
+           "link": "https: //www.youtube.com/watch?v=W_WzKKL4qhw",
+           "thumb": "https: //i.ytimg.com/vi_webp/W_WzKKL4qhw/mqdefault.webp"   
+         },
+       	{
            "Title": "\nCorinthians 0 x 3 Flamengo (05/10/2018)",
            "link": "https: //www.youtube.com/watch?v=ldO07a-L_AQ",
            "thumb": "https: //i.ytimg.com/vi_webp/ldO07a-L_AQ/mqdefault.webp"   
